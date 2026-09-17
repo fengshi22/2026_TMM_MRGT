@@ -13,7 +13,7 @@ Additionally, this method introduces learnable multi-relation fusion to integrat
 ## Model Architecture
 
 <p align="center">
-  <img src="assets/MRGT_framework.png" width="100%" alt="MRGT architecture">
+  <img src="MRGT_framework.png" width="100%" alt="MRGT architecture">
 </p>
 
 ## Experiment
