@@ -1,0 +1,64 @@
+datasets:
+  20newsgroups:
+    epoch_num: 10
+    k: 20
+    num_heads: [4]
+    features_data_out: 64
+    hid_size: 32
+    alpha: 0.1
+
+  ALOI:
+    epoch_num: 10
+    k: 25
+    num_heads: [4]
+    features_data_out: 64
+    hid_size: 64
+    alpha: 0.1
+
+  Hdigit:
+    epoch_num: 5
+    k: 10
+    num_heads: [4]
+    features_data_out: 64
+    hid_size: 64
+    alpha: 0.5
+
+  HW:
+    epoch_num: 10
+    k: 10
+    num_heads: [4]
+    features_data_out: 128
+    hid_size: 128
+    alpha: 0.5
+
+  Mfeat:
+    epoch_num: 10
+    k: 10
+    num_heads: [4]
+    features_data_out: 64
+    hid_size: 64
+    alpha: 0.5
+
+  NoisyMNIST_15000:
+    epoch_num: 10
+    k: 30
+    num_heads: [4]
+    features_data_out: 128
+    hid_size: 128
+    alpha: 0.5
+
+  prokaryotic:
+    epoch_num: 10
+    k: 15
+    num_heads: [4]
+    features_data_out: 128
+    hid_size: 64
+    alpha: 0.1
+
+  UCI:
+    epoch_num: 10
+    k: 15
+    num_heads: [4]
+    features_data_out: 64
+    hid_size: 64
+    alpha: 0.1
