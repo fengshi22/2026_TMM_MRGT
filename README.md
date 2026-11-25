@@ -51,5 +51,7 @@ If you find this work useful in your research, please consider citing:
   author={Zhao, Wendi and Guo, Canyang and Du, Shide and Shi, Yongquan and Chen, Dewang and Wang, Shiping},
   journal={IEEE Transactions on Multimedia},
   year={2026}
+  volume={28},
+  pages={15502-15513},
 }
 ```
